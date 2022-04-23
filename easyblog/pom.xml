@@ -16,7 +16,7 @@
         <slf4j.version>1.7.20</slf4j.version>           <!-- 日志版本号 -->
         <aspectj.version>1.8.9</aspectj.version>
         <jackson.version>2.6.4</jackson.version>
-        <spring.version>4.1.9.RELEASE</spring.version>  <!-- spring版本号 -->
+        <spring.version>5.3.19</spring.version>  <!-- spring版本号 -->
         <fastjson.version>1.2.29</fastjson.version>
         <mybatis.version>3.4.0</mybatis.version>        <!-- mybatis版本号 -->
         <mybatis-spring.version>1.3.0</mybatis-spring.version>
